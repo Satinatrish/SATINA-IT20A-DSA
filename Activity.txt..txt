@@ -1,0 +1,3 @@
+Name:Satina, Trisha Ann G.
+Course: IT20A
+Activity: Basics of Git and GitHub
